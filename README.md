@@ -15,6 +15,9 @@ The mean annual salaries for health major developers is around 192,000 USD which
 ### 3. Which programming or scripting languages do health science major developers want to work in over the next year?
 The most wanted programming languages for the next year are Java, C, JavaScript, Python, R, and C#.
 
+# Post
+The results were posted on [Medium](https://medium.com/@mousa.j.alhaddad/developers-with-majors-in-health-sciences-8ccbaa32ad4b).
+
 ## Contributions
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
 
