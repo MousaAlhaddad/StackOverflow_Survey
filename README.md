@@ -13,7 +13,7 @@ The percentage of developers who have a health major is 0.43%.
 ### 2. What are the salary averages of developers with a health science major and the rest of the developers?
 The mean annual salaries for health major developers is around 192,000 USD which is higher than the 134,000 USD for developers with no health major. However, the five-number summary, which I think is more informative in this case, is almost the same in the two groups. 
 ### 3. Which programming or scripting languages do health science major developers want to work in over the next year?
-The most wanted programming languages for the next year are Java, JavaScript, C#, Python, R, and C.
+The most wanted programming languages for the next year are Java, C, JavaScript, Python, R, and C#.
 
 ## Contributions
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
